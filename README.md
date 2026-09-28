@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Dayanand Kori (DJK) 👋
+<img src="assets/header.svg" alt="Hi, I'm Dayanand Kori" width="100%" />
 
 **Software engineer in the making, focused on backends and AI systems you can actually trust**
 
 Final-year ECE @ LNMIIT · B.S. Data Science @ IIT Madras · Research Intern @ King's College London
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Backend+%2B+ML+engineer;Healthcare+AI+and+data+privacy;Making+LLMs+stop+making+things+up" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4F46E5&center=true&vCenter=true&width=560&lines=Backend+%2B+ML+engineer;Healthcare+AI+and+data+privacy;Making+LLMs+stop+making+things+up" alt="typing intro" />
 
 </div>
 
@@ -127,35 +127,27 @@ Tracks SLA adherence, turnaround time, and throughput by zone across dispatch, t
 
 **Languages**
 
-![Python](https://skillicons.dev/icons?i=python,js,c,cpp,dart&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,js,c,cpp,dart&theme=light)
 
 **Backend and Data**
 
-![Backend](https://skillicons.dev/icons?i=fastapi,flask,express,nodejs,postgres,mongodb,sqlite,redis&theme=dark)
+![Backend](https://skillicons.dev/icons?i=fastapi,flask,express,nodejs,postgres,mongodb,sqlite,redis&theme=light)
 
 **Frontend and Mobile**
 
-![Frontend](https://skillicons.dev/icons?i=react,vue,flutter,html,css&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=react,vue,flutter,html,css&theme=light)
 
 **ML and Computer Vision**
 
-![ML](https://skillicons.dev/icons?i=opencv,numpy&theme=dark)
+![ML](https://skillicons.dev/icons?i=opencv,numpy&theme=light)
 
 **Tools and Platforms**
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase,powerbi&theme=dark) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase,powerbi&theme=light" height="48" alt="Tools" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
 
 **AI tooling I work with daily:** Claude Code, plus the Gemini and OpenAI APIs, LangChain, and ChromaDB for RAG work.
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/D-Dynamico/D-Dynamico/main/github-metrics.svg" alt="GitHub metrics" />
-
-</div>
 
 ## Contribution Snake
 
@@ -183,3 +175,5 @@ I'm looking for **internships and 2027 new-grad roles** in software engineering,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanand-kori-075413280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
+
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
