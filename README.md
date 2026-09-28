@@ -143,7 +143,9 @@ Tracks SLA adherence, turnaround time, and throughput by zone across dispatch, t
 
 **Tools and Platforms**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase,powerbi&theme=light" height="48" alt="Tools" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase&theme=light" height="48" alt="Tools" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
+
+**Also comfortable with:** Excel / Google Sheets
 
 **AI tooling I work with daily:** Claude Code, plus the Gemini and OpenAI APIs, LangChain, and ChromaDB for RAG work.
 
