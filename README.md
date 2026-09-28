@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Hi, I'm Dayanand Kori" width="100%" />
+# Hi, I'm Dayanand Kori (DJK) 👋
 
 **Software engineer in the making, focused on backends and AI systems you can actually trust**
 
@@ -175,5 +175,3 @@ I'm looking for **internships and 2027 new-grad roles** in software engineering,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanand-kori-075413280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
-
-<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
