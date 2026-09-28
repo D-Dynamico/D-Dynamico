@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#ede9fe"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#bg)"/>
+
+  <!-- back wave, drifts right -->
+  <path fill="#6366f1" fill-opacity="0.14"
+        d="M0 45 Q125 81 250 45 T500 45 T750 45 T1000 45 T1250 45 T1500 45 T1750 45 T2000 45 V0 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- front wave, drifts left -->
+  <path fill="#38bdf8" fill-opacity="0.25"
+        d="M0 22 Q125 54 250 22 T500 22 T750 22 T1000 22 T1250 22 T1500 22 T1750 22 T2000 22 V0 H0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="105" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="38" font-weight="700" fill="#1e3a8a">
+    Thanks for stopping by
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="145" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="22" fill="#475569">
+    Let's build something reliable together.
+  </text>
+</svg>
