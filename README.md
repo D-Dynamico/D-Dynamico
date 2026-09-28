@@ -143,7 +143,7 @@ Tracks SLA adherence, turnaround time, and throughput by zone across dispatch, t
 
 **Tools and Platforms**
 
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase,powerbi,vscode&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,postman,firebase,powerbi&theme=dark) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **AI tooling I work with daily:** Claude Code, plus the Gemini and OpenAI APIs, LangChain, and ChromaDB for RAG work.
 
@@ -153,10 +153,7 @@ Tracks SLA adherence, turnaround time, and throughput by zone across dispatch, t
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=D-Dynamico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dynamico&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=D-Dynamico&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/D-Dynamico/D-Dynamico/main/github-metrics.svg" alt="GitHub metrics" />
 
 </div>
 
@@ -186,10 +183,3 @@ I'm looking for **internships and 2027 new-grad roles** in software engineering,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanand-kori-075413280/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
-
-<div align="center">
-
-<sub>Profile views</sub><br>
-<img src="https://komarev.com/ghpvc/?username=D-Dynamico&color=blue&style=flat-square" alt="profile views" />
-
-</div>
