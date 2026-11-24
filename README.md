@@ -215,7 +215,7 @@ I graduate in **May 2027** and I'm looking for **full-time new-grad roles** in s
 
 **Let's talk 👇**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanand-kori-075413280/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
+<a href="https://www.linkedin.com/in/dayanand-kori-075413280/"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:dayukori@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="44" alt="Email" /></a>
 
 </div>
