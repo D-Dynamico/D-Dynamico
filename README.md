@@ -1,15 +1,10 @@
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7D2FE,50:BAE6FD,100:DDD6FE&height=210&section=header&text=Dayanand%20Kori&fontSize=62&fontColor=1E3A8A&fontAlignY=36&animation=fadeIn&desc=Backend%20%C2%B7%20Applied%20AI%20%C2%B7%20Healthcare%20tech&descSize=20&descAlignY=58" width="100%" alt="Dayanand Kori" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=4F46E5&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+DJK+%F0%9F%91%8B;Backend+%2B+applied+AI+engineer;Building+AI+you+can+actually+trust;Making+LLMs+stop+making+things+up" alt="Typing intro" />
+# Hi, I'm Dayanand Kori (DJK) 👋
 
-<br/>
+**Backend · Applied AI · Healthcare tech**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanand-kori-075413280/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
-![Open to](https://img.shields.io/badge/Open%20to-2027%20new--grad%20roles-4F46E5?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4F46E5&center=true&vCenter=true&width=560&lines=Backend+%2B+applied+AI+engineer;Building+AI+you+can+actually+trust;Making+LLMs+stop+making+things+up" alt="Typing intro" />
 
 </div>
 
@@ -224,6 +219,3 @@ I graduate in **May 2027** and I'm looking for **full-time new-grad roles** in s
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayukori@gmail.com)
 
 </div>
-
-<!-- Animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DDD6FE,50:BAE6FD,100:C7D2FE&height=120&section=footer&animation=twinkling" width="100%" alt="" />
